@@ -1,0 +1,24 @@
+# Node.js dependencies
+/node_modules/
+
+# dotenv environment variable files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build output
+/dist/
+/build/
+
+# Optional: Add any additional files you want to exclude (e.g., personal settings, database dumps)
